@@ -1,5 +1,4 @@
 # Duck Curve Optimization Project
-# Independent Study Project Proposal
 
 ## Title
 
